@@ -1,1 +1,10 @@
-sgfbvrunk
+#include <stdio.h>
+
+
+int main() {
+
+printf("my first project") ; 
+
+
+return 0 ; 
+}
